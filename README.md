@@ -58,6 +58,11 @@ The dashboard complements the engine with live position monitoring, unified P&L 
 
 Nova was built to work with Databento MBP-1 futures data in `.dbn.zst` format. The data layer uses timestamps, prices, bid/ask quotes, symbols, and trade sizes to reproduce market conditions during a backtest.
 
+## Contributors
+
+- [akramj13](https://github.com/akramj13)
+- [reyan-m8](https://github.com/reyan-m8)
+
 ## Further Information
 
 The full project includes architecture notes and strategy documentation covering the shared engine, BTC and SOL strategy tracks, runtime configuration, and analysis workflows. These materials are available with the source code.
